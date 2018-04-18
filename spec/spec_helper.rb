@@ -5,5 +5,7 @@
 require_relative '../meal_choice.rb' # Code your solution in this file
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|
-  # config here
+  def meal_choice(meal="meat")
+    meal
+  end
 end
