@@ -3,5 +3,5 @@
 
 
 def meal_choice(default_value = 'meat')
-  default_value
+  return default_value
 end
