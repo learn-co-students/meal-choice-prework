@@ -1,4 +1,8 @@
-# Meal Choice
+def meal_choice("meat", "other")
+return
+puts meal choice is #{"meat"}
+puts meal choice is #{"other"}
+end
 
 ## Objectives
 
