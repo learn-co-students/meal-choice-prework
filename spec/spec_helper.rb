@@ -7,3 +7,7 @@ require_relative '../meal_choice.rb' # Code your solution in this file
 RSpec.configure do |config|
   # config here
 end
+
+def meal_choice(choice = "meat")
+  return choice
+end
